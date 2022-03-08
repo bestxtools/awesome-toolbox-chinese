@@ -6,8 +6,8 @@
 
 ## 🧰 在线工具箱
 
-> 工具箱网站排名说明：下面所列网站按域名字母顺序排序
-> Featured tools 最多列 5 个
+> 工具箱网站排名说明：下面所列网站按域名字母顺序排序  
+> 每个网站的 featured tools 最多列 5 个
 
 - [67tool.com](https://www.67tool.com/) - 即时工具-致力打造即用即走型在线工具箱
 
@@ -21,6 +21,14 @@
 
   - Featured tools: [Markdown 一纸简历](https://cv.devtool.tech/app), [Markdown 编辑器](https://markdown.devtool.tech/app), [微图床 - 个人专属 Github 图床](https://devtool.tech/gallery)
 
+- [gjk.cn](https://www.gjk.cn/) - 工具库 - 在线工具\_全能工具箱
+
+  - Featured tools: [码农毒鸡汤](https://www.gjk.cn/soul), [中文简繁体转换](https://www.gjk.cn/jianfanti), [卡通头像制作](https://www.gjk.cn/katong)
+
+- [iamwawa.cn](https://www.iamwawa.cn/) - 蛙蛙工具 - 便捷的在线工具网站
+
+  - Featured tools: [英文字母大小写转换](https://www.iamwawa.cn/daxiaoxie.html), [文本去重工具](https://www.iamwawa.cn/quchong.html), [人民币大写转换器](https://www.iamwawa.cn/renminbi.html)
+
 - [idcd.com](https://www.idcd.com/) - 实用在线工具箱
 
   - Featured tools: [whois 查询](https://whois.idcd.com/), [SQL 格式化](https://www.idcd.com/tool/format/sql), [成语查询](https://chengyu.idcd.com/)
@@ -32,6 +40,10 @@
 - [t.xxgeek.com](https://t.xxgeek.com/) - 极客工具箱
 
   - Featured tools: [今天吃什么？](https://t.xxgeek.com/tools/eatsm/), [极客域名权重查询](https://t.xxgeek.com/tools/rank), [SEO 自动工具](https://t.xxgeek.com/tools/seoauto)
+
+- [tool.chinaz.com](https://tool.chinaz.com/) - 站长工具 - 站长之家
+
+  - Featured tools: [Whois 查询](https://whois.chinaz.com/), [SEO 综合查询](https://seo.chinaz.com/), [反向链接](https://outlink.chinaz.com/)
 
 - [tool.lu](https://tool.lu/) - 在线工具 - 你的工具箱
 
@@ -60,6 +72,10 @@
 - [tools.miku.ac](https://tools.miku.ac/) - MikuTools - 一个轻量的工具集合
 
   - Featured tools: [零宽字符隐藏加密](https://tools.miku.ac/zero_width_space_encrypt/), [CURL 转编程语言](https://tools.miku.ac/curlconverter/), [正则大全](https://tools.miku.ac/any_rule/)
+
+- [tools.quickso.cn](https://tools.quickso.cn/) - Ctool 程序开发常用工具
+
+  - Featured tools: [哈希(hash)](https://tools.quickso.cn/tool.html#/tool/hash), [加密/解密](https://tools.quickso.cn/tool.html#/tool/encrypt), [BASE64 编码](https://tools.quickso.cn/tool.html#/tool/base64)
 
 - [tools.yuanfen.net](https://tools.yuanfen.net/) - 猿奋工具箱
 
