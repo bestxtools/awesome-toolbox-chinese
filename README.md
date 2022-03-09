@@ -13,6 +13,14 @@
 
   - Featured tools: [视频剪切](https://www.67tool.com/video/edit?type=cut), [图片压缩](https://www.67tool.com/images/imgCompress), [图片放大](https://www.67tool.com/images/enlarge)
 
+- [atool.vip](https://atool.vip/) - 在线工具 - VIP
+
+  - Featured tools: [批量生成多尺寸 APP Icon](https://atool.vip/appicon/), [图片 Base64 编码](https://atool.vip/base64), [在线颜色选择器 / 转换器](https://atool.vip/colorpicker)
+
+- [atoolbox.net](http://www.atoolbox.net/) - 一个工具箱 - 好用的在线工具都在这里！
+
+  - Featured tools: [信用卡分期计算器](http://www.atoolbox.net/Tool.php?Id=1021), [像素风格头像生成器](http://www.atoolbox.net/Tool.php?Id=1035), [翅膀昵称生成器](http://www.atoolbox.net/Tool.php?Id=1025)
+
 - [bazinga.tools](https://bazinga.tools/) - Bazinga Tools - The All-in-One Toolbox for Developers ([Open source](https://github.com/luin/bazinga))
 
   - Featured tools: [HTML Formatter](https://bazinga.tools/html), [JSON to CSV Converter](https://bazinga.tools/json-to-csv), [Markdown Table Generator](https://bazinga.tools/markdown-table-generator)
@@ -20,6 +28,10 @@
 - [devtool.tech](https://devtool.tech/) - 开发者武器库 · 属于程序员的工具箱
 
   - Featured tools: [Markdown 一纸简历](https://cv.devtool.tech/app), [Markdown 编辑器](https://markdown.devtool.tech/app), [微图床 - 个人专属 Github 图床](https://devtool.tech/gallery)
+
+- [dute.org](https://www.dute.org/) - 专注于体验的免费在线工具 - 独特工具箱 - dute.org
+
+  - Featured tools: [九宫切图工具](https://www.dute.org/image-clip), [Paypal 手续费计算器](https://www.dute.org/paypal-service-charge), [抖音风格文字生成器](https://www.dute.org/douyin-style-text)
 
 - [gjk.cn](https://www.gjk.cn/) - 工具库 - 在线工具\_全能工具箱
 
@@ -37,9 +49,17 @@
 
   - Featured tools: [JSON 在线解析](https://www.json.cn/json/jsononline.html), [JSON 压缩转义](https://www.json.cn/json/jsonzip.html), [JSON 生成 JAVA 实体](https://www.json.cn/json/json2java.html)
 
+- [oktools.net](https://oktools.net/) - 在线工具 - OKTools
+
+  - Featured tools: [JSON 格式化](https://oktools.net/json), [Unix 时间戳](https://oktools.net/timestamp), [图片 Base64 编码](https://oktools.net/image2base64)
+
 - [qtool.net](https://www.qtool.net/) - 在线工具-QTOOl 工具大家常用的工具箱
 
   - Featured tools: [在线抠图，在线删除图片背景](https://www.qtool.net/imgmatting), [图片压缩](https://www.qtool.net/tpys), [在线拼图](https://www.qtool.net/picstitching)
+
+- [sojson.com](https://www.sojson.com/) - JSON 在线 | JSON 解析格式化—SO JSON 在线工具
+
+  - Featured tools: [JSON 解析](https://www.sojson.com/), [JSON 视图](https://www.sojson.com/editor.html), [JSON 着色](https://www.sojson.com/jsonfmt.html)
 
 - [sotool.net](https://sotool.net/) - so 工具
 
@@ -61,6 +81,10 @@
 
   - Featured tools: [Pornhub 和 YouTube 风格 LOGO 生产器](http://tool.mkblog.cn/logoly/), [艺术二维码生成器](http://tool.mkblog.cn/qrbtf/), [中国家庭称谓计算器](http://tool.mkblog.cn/relationship/)
 
+- [tooleyes.com](https://www.tooleyes.com/) - 在线工具大全，用完即走，触手可及\_tooleyes 工具网
+
+  - Featured tools: [gif 制作](https://www.tooleyes.com/app/gif_maker.html), [证件照换底色](https://www.tooleyes.com/app/id_photo.html), [文字转换语音](https://www.tooleyes.com/app/bdtts.html)
+
 - [toolfk.com](https://www.toolfk.com/) - 最强工具人在线工具箱 - TOOLFK 工具网
 
   - Featured tools: [网站收录工具](https://www.toolfk.com/tools/online-website-include.html), [在线 htaccess 转 Nginx](https://www.toolfk.com/tools/convert-htaccess2nginx.html), [在线网站拦截检测](https://www.toolfk.com/tools/online-safe-domain.html)
@@ -80,6 +104,10 @@
 - [tools.miku.ac](https://tools.miku.ac/) - MikuTools - 一个轻量的工具集合
 
   - Featured tools: [零宽字符隐藏加密](https://tools.miku.ac/zero_width_space_encrypt/), [CURL 转编程语言](https://tools.miku.ac/curlconverter/), [正则大全](https://tools.miku.ac/any_rule/)
+
+- [tools.pet](https://tools.pet/) - Tools.Pet 在线工具 程序员工具箱
+
+  - Featured tools: [字符长度统计](https://tools.pet/), [Url 在线转码/解码](https://tools.pet/other/urlcode), [JSON 转 Golang 结构体](https://tools.pet/json/json2go)
 
 - [tools.quickso.cn](https://tools.quickso.cn/) - Ctool 程序开发常用工具
 
