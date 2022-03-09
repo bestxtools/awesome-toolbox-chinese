@@ -1,8 +1,8 @@
-# 优秀工具箱集合 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 优秀工具箱集合 [![Awesome](https://awesome.re/badge.svg)](https://github.com/topics/awesome)
 
 收集，推荐好用、优秀的工具箱。工具箱大全。
 
-欢迎点赞，收藏，[推荐](https://github.com/bestxtools/awesome-toolbox-chinese/issues)。
+欢迎[点赞](https://github.com/bestxtools/awesome-toolbox-chinese/stargazers)，收藏，[推荐](https://github.com/bestxtools/awesome-toolbox-chinese/issues)。
 
 ## 🧰 在线工具箱
 
@@ -33,9 +33,17 @@
 
   - Featured tools: [whois 查询](https://whois.idcd.com/), [SQL 格式化](https://www.idcd.com/tool/format/sql), [成语查询](https://chengyu.idcd.com/)
 
+- [json.cn](https://www.json.cn/) - JSON 在线解析及格式化验证 - JSON.cn
+
+  - Featured tools: [JSON 在线解析](https://www.json.cn/json/jsononline.html), [JSON 压缩转义](https://www.json.cn/json/jsonzip.html), [JSON 生成 JAVA 实体](https://www.json.cn/json/json2java.html)
+
 - [qtool.net](https://www.qtool.net/) - 在线工具-QTOOl 工具大家常用的工具箱
 
   - Featured tools: [在线抠图，在线删除图片背景](https://www.qtool.net/imgmatting), [图片压缩](https://www.qtool.net/tpys), [在线拼图](https://www.qtool.net/picstitching)
+
+- [sotool.net](https://sotool.net/) - so 工具
+
+  - Featured tools: [证件加水印](https://sotool.net/watermark), [时间戳转换工具](https://sotool.net/time.html), [颜色拾取工具](https://sotool.net/color)
 
 - [t.xxgeek.com](https://t.xxgeek.com/) - 极客工具箱
 
