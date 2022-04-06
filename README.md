@@ -1,4 +1,4 @@
-# 优秀工具箱集合 [![Awesome](https://awesome.re/badge.svg)](https://github.com/topics/awesome)
+# 优秀工具箱集合 [![Awesome](https://awesome.re/badge.svg)](https://awesome-toolbox-chinese.bestxtools.com/)
 
 收集，推荐好用、优秀的工具箱。工具箱大全。
 
@@ -164,3 +164,16 @@
 - [竹白（邮箱，微信）](https://bestxtools.zhubai.love/)
 
 欢迎交流，投稿，订阅。
+
+## License
+
+Copyright (c) 2022 [Pipecraft][my-url]. Licensed under the [CC0-1.0 License][license-url].
+
+## >\_
+
+[![Pipecraft](https://img.shields.io/badge/site-pipecraft-brightgreen)](https://www.pipecraft.net)
+[![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)
+[![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
+
+[my-url]: https://www.pipecraft.net
+[license-url]: LICENSE
