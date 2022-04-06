@@ -53,6 +53,10 @@
 
   - Featured tools: [JSON 在线解析](https://www.json.cn/json/jsononline.html), [JSON 压缩转义](https://www.json.cn/json/jsonzip.html), [JSON 生成 JAVA 实体](https://www.json.cn/json/json2java.html)
 
+- [lddgo.net](https://www.lddgo.net/) - 在线工具大全
+
+  - Featured tools: [Java 正则表达式测试](https://www.lddgo.net/string/regex), [CRC 在线计算](https://www.lddgo.net/encrypt/crc), [在线随机数生成器](https://www.lddgo.net/string/randomnumber)
+
 - [oktools.net](https://oktools.net/) - 在线工具 - OKTools
 
   - Featured tools: [JSON 格式化](https://oktools.net/json), [Unix 时间戳](https://oktools.net/timestamp), [图片 Base64 编码](https://oktools.net/image2base64)
@@ -60,6 +64,10 @@
 - [qtool.net](https://www.qtool.net/) - 在线工具-QTOOl 工具大家常用的工具箱
 
   - Featured tools: [在线抠图，在线删除图片背景](https://www.qtool.net/imgmatting), [图片压缩](https://www.qtool.net/tpys), [在线拼图](https://www.qtool.net/picstitching)
+
+- [smalldev.tools](https://smalldev.tools/) - Handy developer tools with a delightful interface - SmallDevTools (🇬🇧)
+
+  - Featured tools: [Code Share Bin](https://smalldev.tools/share-bin), [JSON Decoder](https://smalldev.tools/json-decoder-online), [JSON Formatter](https://smalldev.tools/json-formatter-online)
 
 - [smallseotools.com](https://smallseotools.com/) - 100% Free SEO Tools - SmallSEOTools.com (🇬🇧)
 
