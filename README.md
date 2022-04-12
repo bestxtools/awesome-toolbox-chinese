@@ -121,6 +121,10 @@
 
   - Featured tools: [网站收录工具](https://www.toolfk.com/tools/online-website-include.html), [在线 htaccess 转 Nginx](https://www.toolfk.com/tools/convert-htaccess2nginx.html), [在线网站拦截检测](https://www.toolfk.com/tools/online-safe-domain.html)
 
+- [toolgg.com](https://toolgg.com/) - 我的工具箱
+
+  - Featured tools: [在线 CSS 压缩工具](https://toolgg.com/css-minifier.html), [在线 CSS 美化格式化工具](https://toolgg.com/css-beautifier.html), [在线 CSV 转 JSON 工具](https://toolgg.com/csv-to-json.html)
+
 - [toolight.cn](https://toolight.cn/) - 偷懒工具 - 努力做更好用的在线工具
 
   - Featured tools: [万年历](https://toolight.cn/common/calendar), [身份证信息](https://toolight.cn/common/idcard), [在线解压缩](https://toolight.cn/common/unzip)
