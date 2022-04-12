@@ -101,6 +101,10 @@
 
   - Featured tools: [Whois 查询](https://whois.chinaz.com/), [SEO 综合查询](https://seo.chinaz.com/), [反向链接](https://outlink.chinaz.com/)
 
+- [tool.geekyes.com](https://tool.geekyes.com/) - 极客工具网-极客角落在线工具大全！
+
+  - Featured tools: [Json 格式化](https://tool.geekyes.com/json/), [IP 地址归属地查询](https://tool.geekyes.com/ip/), [微信域名检测工具](https://tool.geekyes.com/checkweixin/)
+
 - [tool.lu](https://tool.lu/) - 在线工具 - 你的工具箱
 
   - Featured tools: [图片转文字、OCR](https://tool.lu/ocr/), [在线 js 美化、解压缩、混淆](https://tool.lu/js/), [在线 css 美化、格式化、压缩](https://tool.lu/css/)
@@ -160,6 +164,10 @@
 - [utils.fun](https://utils.fun/) - 油条工具箱
 
   - Featured tools: [随机密码生成](https://utils.fun/generate/rand-password.html), [二维码生成](https://utils.fun/generate/qrcode.html), [图片离线加水印](https://utils.fun/generate/watermark.html)
+
+- [wanderplan.net](https://www.wanderplan.net/) - 漫步工具 \| 在线工具箱
+
+  - Featured tools: [字数统计](https://www.wanderplan.net/tools/word-count), [简繁体转换](https://www.wanderplan.net/tools/jian-fan), [模板内容生成](https://www.wanderplan.net/tools/template)
 
 - [zxgj.cn](https://www.zxgj.cn/) - 在线工具网 - 工作生活好帮手
 
