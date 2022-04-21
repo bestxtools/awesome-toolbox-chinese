@@ -33,6 +33,10 @@
 
   - Featured tools: [json to yaml converter](https://onlinejsontools.com/convert-json-to-yaml), [yaml validator](https://onlineyamltools.com/validate-yaml), [csv to json converter](https://onlinecsvtools.com/convert-csv-to-json)
 
+- [ctfever.uniiem.com](https://ctfever.uniiem.com/) - CTFever Toolkit by uniiem
+
+  - Featured tools: [ROT-13 编码](https://ctfever.uniiem.com/tools/rot-series), [摩尔斯码/摩斯密码](https://ctfever.uniiem.com/tools/morse-code), [凯撒加密](https://ctfever.uniiem.com/tools/caesar-cipher)
+
 - [devtool.tech](https://devtool.tech/) - 开发者武器库 · 属于程序员的工具箱
 
   - Featured tools: [Markdown 一纸简历](https://cv.devtool.tech/app), [Markdown 编辑器](https://markdown.devtool.tech/app), [微图床 - 个人专属 Github 图床](https://devtool.tech/gallery)
@@ -44,6 +48,10 @@
 - [gjk.cn](https://www.gjk.cn/) - 工具库 - 在线工具\_全能工具箱
 
   - Featured tools: [码农毒鸡汤](https://www.gjk.cn/soul), [中文简繁体转换](https://www.gjk.cn/jianfanti), [卡通头像制作](https://www.gjk.cn/katong)
+
+- [gluee.com](https://www.gluee.com/tools/) - Gluee's tool suite for webmasters and developers (🇬🇧)
+
+  - Featured tools: [Punycode converter](https://www.punycoder.com/), [HTML cleanup tool](https://www.htmlwasher.com/), [HTML corrector](https://www.htmlcorrector.com/)
 
 - [goonlinetools.com](https://goonlinetools.com/) - GoOnlineTools.com - 100% Free Online Tools Collection (🇬🇧)
 
@@ -68,6 +76,10 @@
 - [oktools.net](https://oktools.net/) - 在线工具 - OKTools
 
   - Featured tools: [JSON 格式化](https://oktools.net/json), [Unix 时间戳](https://oktools.net/timestamp), [图片 Base64 编码](https://oktools.net/image2base64)
+
+- [piliapp.com](https://cn.piliapp.com/) - 工具邦 - PiliApp
+
+  - Featured tools: [随机抽签器](https://cn.piliapp.com/random/lots/), [抛硬币](https://cn.piliapp.com/random/coin/), [轮盘](https://cn.piliapp.com/random/wheel/)
 
 - [qtool.net](https://www.qtool.net/) - 在线工具-QTOOl 工具大家常用的工具箱
 
