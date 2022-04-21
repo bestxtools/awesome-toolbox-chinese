@@ -1,8 +1,14 @@
-# 优秀工具箱集合 [![Awesome](https://awesome.re/badge.svg)](https://awesome-toolbox-chinese.bestxtools.com/)
+# 优秀工具箱集合 [![Awesome](https://awesome.re/badge.svg)](https://awesome-toolbox-chinese.bestxtools.com/) [![GitHub Repo stars](https://img.shields.io/github/stars/bestxtools/awesome-toolbox-chinese)](https://github.com/bestxtools/awesome-toolbox-chinese)
 
 收集，推荐好用、优秀的工具箱。工具箱大全。
 
 欢迎[点赞](https://github.com/bestxtools/awesome-toolbox-chinese/stargazers)，收藏，[推荐](https://github.com/bestxtools/awesome-toolbox-chinese/issues)。
+
+更多链接:
+
+- [https://github.com/bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese)
+- [https://awesome-toolbox-chinese.bestxtools.com/](https://awesome-toolbox-chinese.bestxtools.com/)
+- [https://😎🧰.bestxtools.com/](https://😎🧰.bestxtools.com/)
 
 ## 🧰 在线工具箱
 
