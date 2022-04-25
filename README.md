@@ -37,7 +37,7 @@
 
 - [browserling.com](https://www.browserling.com/tools) - Web Developer Tools - Programmer Tools - Online - Browserling (🇬🇧)
 
-  - Featured tools: [json to yaml converter](https://onlinejsontools.com/convert-json-to-yaml), [yaml validator](https://onlineyamltools.com/validate-yaml), [csv to json converter](https://onlinecsvtools.com/convert-csv-to-json)
+  - Featured tools: [json to yaml converter](https://onlinejsontools.com/convert-json-to-yaml), [yaml validator](https://onlineyamltools.com/validate-yaml), [csv to json converter](https://onlinecsvtools.com/convert-csv-to-json), [unicode text normalizer](https://onlineunicodetools.com/normalize-unicode-text)
 
 - [ctfever.uniiem.com](https://ctfever.uniiem.com/) - CTFever Toolkit by uniiem
 
@@ -62,6 +62,10 @@
 - [goonlinetools.com](https://goonlinetools.com/) - GoOnlineTools.com - 100% Free Online Tools Collection (🇬🇧)
 
   - Featured tools: [Random Password Generator](https://goonlinetools.com/random-password-generator/), [Tiktok style text maker](https://goonlinetools.com/tiktok-style-text-maker/), [Random Paragraph Generator](https://goonlinetools.com/random-paragraph-generator/)
+
+- [hiencode.com](http://www.hiencode.com/) - CTF 在线工具 - CTF 工具\|CTF 编码\|CTF 密码学\|CTF 加解密\|程序员工具\|在线编解码
+
+  - Featured tools: [莫尔斯电码](http://www.hiencode.com/morse.html), [AES 加解密](http://www.hiencode.com/caes.html), [DES 加解密](http://www.hiencode.com/cdes.html)
 
 - [iamwawa.cn](https://www.iamwawa.cn/) - 蛙蛙工具 - 便捷的在线工具网站
 
