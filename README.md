@@ -87,6 +87,10 @@
 
   - Featured tools: [JSON 格式化](https://oktools.net/json), [Unix 时间戳](https://oktools.net/timestamp), [图片 Base64 编码](https://oktools.net/image2base64)
 
+- [ol.woobx.cn](https://ol.woobx.cn/) - 一个木函 - 多功能效率工具箱
+
+  - Featured tools: [网络测速](https://ol.woobx.cn/tool/speedtest), [番茄时钟](https://ol.woobx.cn/tool/pomodoro-clock), [图片转 Base64](https://ol.woobx.cn/tool/image2base64)
+
 - [piliapp.com](https://cn.piliapp.com/) - 工具邦 - PiliApp
 
   - Featured tools: [随机抽签器](https://cn.piliapp.com/random/lots/), [抛硬币](https://cn.piliapp.com/random/coin/), [轮盘](https://cn.piliapp.com/random/wheel/)
