@@ -31,7 +31,7 @@
 
   - Featured tools: [信用卡分期计算器](http://www.atoolbox.net/Tool.php?Id=1021), [像素风格头像生成器](http://www.atoolbox.net/Tool.php?Id=1035), [翅膀昵称生成器](http://www.atoolbox.net/Tool.php?Id=1025)
 
-- [bazinga.tools](https://bazinga.tools/) - Bazinga Tools - The All-in-One Toolbox for Developers ([Open source](https://github.com/luin/bazinga))
+- [bazinga.tools](https://bazinga.tools/) - Bazinga Tools - The All-in-One Toolbox for Developers ([Open source](https://github.com/luin/bazinga)) (🇬🇧)
 
   - Featured tools: [HTML Formatter](https://bazinga.tools/html), [JSON to CSV Converter](https://bazinga.tools/json-to-csv), [Markdown Table Generator](https://bazinga.tools/markdown-table-generator)
 
@@ -159,6 +159,10 @@
 
   - Featured tools: [万年历](https://toolight.cn/common/calendar), [身份证信息](https://toolight.cn/common/idcard), [在线解压缩](https://toolight.cn/common/unzip)
 
+- [tooling.one](https://tooling.one/) - One Tooling ([Open source](https://github.com/egoist/tooling.one)) (🇬🇧)
+
+  - Featured tools: [Base64 Encode/Decode](https://tooling.one/base64), [HTML to Markdown](https://tooling.one/html-to-markdown), [JSON to Rust](https://tooling.one/json-to-rust)
+
 - [toolnb.com](https://www.toolnb.com/) - 爱资料工具-好用的在线工具箱
 
   - Featured tools: [域名 Whois 详细信息查询](https://www.toolnb.com/domaininfo/baidu.com.html), [Alexa 历史排名查询](https://www.toolnb.com/alexa/baidu.com.html), [域名被墙查询](https://www.toolnb.com/beiqiang/index.html)
@@ -225,13 +229,10 @@
 
 ## License
 
-Copyright (c) 2022 [Pipecraft][my-url]. Licensed under the [CC0-1.0 License][license-url].
+Copyright (c) 2022 [Pipecraft](https://www.pipecraft.net). Licensed under the [CC0-1.0 License](https://github.com/bestxtools/awesome-toolbox-chinese/blob/main/LICENSE).
 
 ## >\_
 
 [![Pipecraft](https://img.shields.io/badge/site-pipecraft-brightgreen)](https://www.pipecraft.net)
 [![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)
 [![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
-
-[my-url]: https://www.pipecraft.net
-[license-url]: LICENSE
