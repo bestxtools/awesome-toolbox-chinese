@@ -47,6 +47,10 @@
 
   - Featured tools: [Markdown 一纸简历](https://cv.devtool.tech/app), [Markdown 编辑器](https://markdown.devtool.tech/app), [微图床 - 个人专属 Github 图床](https://devtool.tech/gallery)
 
+- [devtoolcafe.com](https://devtoolcafe.com/) - Developer's Toolkit (🇬🇧)
+
+  - Featured tools: [Online Text Compare Tool](https://devtoolcafe.com/tools/diff), [JWT Decoder](https://devtoolcafe.com/tools/jwtdecoder), [Regular Expression Tester and Visualizer](https://devtoolcafe.com/tools/regex)
+
 - [dute.org](https://www.dute.org/) - 专注于体验的免费在线工具 - 独特工具箱 - dute.org
 
   - Featured tools: [九宫切图工具](https://www.dute.org/image-clip), [Paypal 手续费计算器](https://www.dute.org/paypal-service-charge), [抖音风格文字生成器](https://www.dute.org/douyin-style-text)
@@ -82,6 +86,10 @@
 - [lddgo.net](https://www.lddgo.net/) - 在线工具大全
 
   - Featured tools: [Java 正则表达式测试](https://www.lddgo.net/string/regex), [CRC 在线计算](https://www.lddgo.net/encrypt/crc), [在线随机数生成器](https://www.lddgo.net/string/randomnumber)
+
+- [manytools.org](https://manytools.org/) - Your online toolshed: many tools for web developers, system admins & webworkers (🇬🇧)
+
+  - Featured tools: [What is my IP](https://manytools.org/network/what-is-my-ip/), [Type upside down](https://manytools.org/facebook-twitter/type-upside-down-aboqe/), [ASCII banners](https://manytools.org/hacker-tools/ascii-banner/)
 
 - [oktools.net](https://oktools.net/) - 在线工具 - OKTools
 
@@ -122,6 +130,10 @@
 - [tableconvert.com](https://tableconvert.com/zh-CN/) - Table Convert Online 在线表格转换工具 - 让表格转换变得更容易
 
   - Featured tools: [CSV 转换为 Markdown 表格](https://tableconvert.com/zh-CN/csv-to-markdown), [Markdown 表格 转换为 HTML 表格](https://tableconvert.com/zh-CN/markdown-to-html), [Excel 转换为 Markdown 表格](https://tableconvert.com/zh-CN/excel-to-markdown)
+
+- [textcleaner.net](https://textcleaner.net/) - Text Cleaner: Text Formatter, Text Formatting Online (🇬🇧)
+
+  - Featured tools: [Text Cleaner](https://textcleaner.net/), [HTML Formatter](https://textcleaner.net/html-formatter/), [Diff Checker](https://textcleaner.net/diff-checker/)
 
 - [tinywow.com](https://tinywow.com/) - Free PDF, Video, Image & Other Online Tools - TinyWow (🇬🇧)
 
