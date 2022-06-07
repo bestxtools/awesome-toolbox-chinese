@@ -107,6 +107,10 @@
 
   - Featured tools: [在线抠图，在线删除图片背景](https://www.qtool.net/imgmatting), [图片压缩](https://www.qtool.net/tpys), [在线拼图](https://www.qtool.net/picstitching)
 
+- [shubang.net](http://www.shubang.net/) - 工具书
+
+  - Featured tools: [新华字典在线查字](http://www.shubang.net/zidian/), [成语大全及解释](http://www.shubang.net/chengyu/), [网名大全](http://www.shubang.net/wangming/), [翅膀符号网名生成器](http://www.shubang.net/tools/chibang.html)
+
 - [smalldev.tools](https://smalldev.tools/) - Handy developer tools with a delightful interface - SmallDevTools (🇬🇧)
 
   - Featured tools: [Code Share Bin](https://smalldev.tools/share-bin), [JSON Decoder](https://smalldev.tools/json-decoder-online), [JSON Formatter](https://smalldev.tools/json-formatter-online)
@@ -142,6 +146,10 @@
 - [tool.chinaz.com](https://tool.chinaz.com/) - 站长工具 - 站长之家
 
   - Featured tools: [Whois 查询](https://whois.chinaz.com/), [SEO 综合查询](https://seo.chinaz.com/), [反向链接](https://outlink.chinaz.com/)
+
+- [tool.cprk.cc](https://tool.cprk.cc/) - Prk 在线工具 - 免费在线工具网
+
+  - Featured tools: [网页源代码查看](https://tool.cprk.cc/viewhtml), [IP 地址查询](https://tool.cprk.cc/ip), [域名 Whois 查询](https://tool.cprk.cc/whois)
 
 - [tool.geekyes.com](https://tool.geekyes.com/) - 极客工具网-极客角落在线工具大全！
 
@@ -218,6 +226,10 @@
 - [wanderplan.net](https://www.wanderplan.net/) - 漫步工具 \| 在线工具箱
 
   - Featured tools: [字数统计](https://www.wanderplan.net/tools/word-count), [简繁体转换](https://www.wanderplan.net/tools/jian-fan), [模板内容生成](https://www.wanderplan.net/tools/template)
+
+- [webutils.app](https://www.webutils.app/) - Compress images, compare text, utilities for web - WebUtils (🇬🇧)
+
+  - Featured tools: [Curl UI](https://www.webutils.app/curl-web-ui), [Text Compare](https://www.webutils.app/text-diff), [Image Compress](https://www.webutils.app/image-compress)
 
 - [zxgj.cn](https://www.zxgj.cn/) - 在线工具网 - 工作生活好帮手
 
