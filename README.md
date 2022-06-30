@@ -107,6 +107,10 @@
 
   - Featured tools: [在线抠图，在线删除图片背景](https://www.qtool.net/imgmatting), [图片压缩](https://www.qtool.net/tpys), [在线拼图](https://www.qtool.net/picstitching)
 
+- [quanxin.org](https://quanxin.org/) - 全新工具箱，免费在线工具
+
+  - Featured tools: [九宫图生成器](https://quanxin.org/image-slice), [汉字转拼音](https://quanxin.org/hanzi-to-pinyin), [Git 命令速查表](https://quanxin.org/git-cheat-sheet)
+
 - [shubang.net](http://www.shubang.net/) - 工具书
 
   - Featured tools: [新华字典在线查字](http://www.shubang.net/zidian/), [成语大全及解释](http://www.shubang.net/chengyu/), [网名大全](http://www.shubang.net/wangming/), [翅膀符号网名生成器](http://www.shubang.net/tools/chibang.html)
@@ -218,6 +222,10 @@
 - [tooltt.com](https://tooltt.com/) - 我的工具-程序员编程开发必备
 
   - Featured tools: [在线 CSV 转 html,table 代码](https://tooltt.com/csv2htmltable/), [在线 CSV 转 JSON](https://tooltt.com/csv2json/), [在线 XPath 解析 XML 测试工具](https://tooltt.com/xmlxpath/)
+
+- [transform.tools](https://transform.tools/) - Transform - A polyglot web converter ([Open source](https://github.com/ritz078/transform)) (🇬🇧)
+
+  - Featured tools: [HTML to JSX](https://transform.tools/html-to-jsx), [CSS to Tailwind](https://transform.tools/css-to-tailwind), [JSON to React PropTypes](https://transform.tools/json-to-proptypes)
 
 - [utils.fun](https://utils.fun/) - 油条工具箱
 
