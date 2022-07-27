@@ -39,6 +39,10 @@
 
   - Featured tools: [json to yaml converter](https://onlinejsontools.com/convert-json-to-yaml), [yaml validator](https://onlineyamltools.com/validate-yaml), [csv to json converter](https://onlinecsvtools.com/convert-csv-to-json), [unicode text normalizer](https://onlineunicodetools.com/normalize-unicode-text)
 
+- [c.runoob.com](https://c.runoob.com/) - 菜鸟工具 - 不止于工具
+
+  - Featured tools: [HTML/CSS/JS 在线工具](https://c.runoob.com/front-end/61/), [正则表达式在线测试](https://c.runoob.com/front-end/854/), [C 言在线工具](https://c.runoob.com/compile/11/)
+
 - [ctfever.uniiem.com](https://ctfever.uniiem.com/) - CTFever Toolkit by uniiem
 
   - Featured tools: [ROT-13 编码](https://ctfever.uniiem.com/tools/rot-series), [摩尔斯码/摩斯密码](https://ctfever.uniiem.com/tools/morse-code), [凯撒加密](https://ctfever.uniiem.com/tools/caesar-cipher)
@@ -171,6 +175,10 @@
 
   - Featured tools: [gif 制作](https://www.tooleyes.com/app/gif_maker.html), [证件照换底色](https://www.tooleyes.com/app/id_photo.html), [文字转换语音](https://www.tooleyes.com/app/bdtts.html)
 
+- [toolfig.com](https://toolfig.com/) - Free Online Web Tools - ToolFig (🇬🇧)
+
+  - Featured tools: [Fake Name Generator](https://toolfig.com/fake-name-generator), [Url Slug Generator](https://toolfig.com/url-slug-generator), [Lorem Ipsum Generator](https://toolfig.com/lorem-ipsum-generator)
+
 - [toolfk.com](https://www.toolfk.com/) - 最强工具人在线工具箱 - TOOLFK 工具网
 
   - Featured tools: [网站收录工具](https://www.toolfk.com/tools/online-website-include.html), [在线 htaccess 转 Nginx](https://www.toolfk.com/tools/convert-htaccess2nginx.html), [在线网站拦截检测](https://www.toolfk.com/tools/online-safe-domain.html)
@@ -235,13 +243,27 @@
 
   - Featured tools: [字数统计](https://www.wanderplan.net/tools/word-count), [简繁体转换](https://www.wanderplan.net/tools/jian-fan), [模板内容生成](https://www.wanderplan.net/tools/template)
 
+- [wangchujiang.com](https://wangchujiang.com/tools/) - Web Tools - Online Tool ([Open source](https://github.com/jaywcjlove/tools))
+
+  - Featured tools: [URL 编码/解码](https://wangchujiang.com/tools/#/url-encode), [字母文本转换](https://wangchujiang.com/tools/#/text-case), [图片转换 Base64](https://wangchujiang.com/tools/#/image-to-base64)
+
 - [webutils.app](https://www.webutils.app/) - Compress images, compare text, utilities for web - WebUtils (🇬🇧)
 
   - Featured tools: [Curl UI](https://www.webutils.app/curl-web-ui), [Text Compare](https://www.webutils.app/text-diff), [Image Compress](https://www.webutils.app/image-compress)
 
+- [yeyulingfeng.com](https://www.yeyulingfeng.com/tool/) - 夜雨聆风工具箱
+
+  - Featured tools: [音乐搜索器](https://www.yeyulingfeng.com/tools/music/), [长度单位换算](https://www.yeyulingfeng.com/tools/unit.html), [中国亲戚关系计算器](https://www.yeyulingfeng.com/tools/qinqi.html)
+
 - [zxgj.cn](https://www.zxgj.cn/) - 在线工具网 - 工作生活好帮手
 
   - Featured tools: [九宫格切图](https://www.zxgj.cn/g/jiugongge), [快递单号查询](https://www.zxgj.cn/g/kuaidi), [利息计算器](https://www.zxgj.cn/g/lixi)
+
+<!--
+<https://www.danstools.com/>
+<https://github.com/gchq/CyberChef> <https://cyberchef.cn/>
+<https://www.zngg.net/> <https://github.com/ZN-GG/ZNGG-Nuxt3>
+-->
 
 ## 🧰 其他工具箱
 
