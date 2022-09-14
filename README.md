@@ -83,6 +83,10 @@
 
   - Featured tools: [whois 查询](https://whois.idcd.com/), [SQL 格式化](https://www.idcd.com/tool/format/sql), [成语查询](https://chengyu.idcd.com/)
 
+- [it-tools.tech](https://it-tools.tech/) - IT Tools - Handy online tools for developers ([Open source](https://github.com/CorentinTh/it-tools)) (🇬🇧)
+
+  - Featured tools: [Token generator](https://it-tools.tech/token-generator), [Hash text](https://it-tools.tech/hash-text), [Bcrypt](https://it-tools.tech/bcrypt)
+
 - [json.cn](https://www.json.cn/) - JSON 在线解析及格式化验证 - JSON.cn
 
   - Featured tools: [JSON 在线解析](https://www.json.cn/json/jsononline.html), [JSON 压缩转义](https://www.json.cn/json/jsonzip.html), [JSON 生成 JAVA 实体](https://www.json.cn/json/json2java.html)
@@ -263,6 +267,10 @@
 <https://www.danstools.com/>
 <https://github.com/gchq/CyberChef> <https://cyberchef.cn/>
 <https://www.zngg.net/> <https://github.com/ZN-GG/ZNGG-Nuxt3>
+https://convertio.co/zh/
+https://www.3xm.cn/
+https://codegen.cc/ https://codegen.work7z.com/ https://github.com/work7z/CodeGen
+https://imagestool.com/zh_CN/
 -->
 
 ## 🧰 其他工具箱
