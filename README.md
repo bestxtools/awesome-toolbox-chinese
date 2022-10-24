@@ -19,6 +19,10 @@
 
   - Featured tools: [在线视频编辑器](https://online-video-cutter.com/cn/video-editor), [修剪音频](https://mp3cut.net/cn/), [Convert Word to PDF](https://pdf.io/cn/doc2pdf/)
 
+- [3xm.cn](https://www.3xm.cn/) - 秀米 - 简单好用的免费工具
+
+  - Featured tools: [最大公约数](https://www.3xm.cn/app/max_divisor), [瑞文(IQ)智商测试](https://www.3xm.cn/app/ruiwen), [油耗计算器](https://www.3xm.cn/app/youhao)
+
 - [67tool.com](https://www.67tool.com/) - 即时工具-致力打造即用即走型在线工具箱
 
   - Featured tools: [视频剪切](https://www.67tool.com/video/edit?type=cut), [图片压缩](https://www.67tool.com/images/imgCompress), [图片放大](https://www.67tool.com/images/enlarge)
@@ -255,6 +259,10 @@
 
   - Featured tools: [Curl UI](https://www.webutils.app/curl-web-ui), [Text Compare](https://www.webutils.app/text-diff), [Image Compress](https://www.webutils.app/image-compress)
 
+- [xyjwangluo.cn](http://www.xyjwangluo.cn/) - 小妖精工具
+
+  - Featured tools: [土味情话](http://www.xyjwangluo.cn/Tools/twqh/), [随机中文名](http://www.xyjwangluo.cn/Tools/sjzwm/), [UA 分析](http://www.xyjwangluo.cn/Tools/ua/)
+
 - [yeyulingfeng.com](https://www.yeyulingfeng.com/tool/) - 夜雨聆风工具箱
 
   - Featured tools: [音乐搜索器](https://www.yeyulingfeng.com/tools/music/), [长度单位换算](https://www.yeyulingfeng.com/tools/unit.html), [中国亲戚关系计算器](https://www.yeyulingfeng.com/tools/qinqi.html)
@@ -268,9 +276,9 @@
 <https://github.com/gchq/CyberChef> <https://cyberchef.cn/>
 <https://www.zngg.net/> <https://github.com/ZN-GG/ZNGG-Nuxt3>
 https://convertio.co/zh/
-https://www.3xm.cn/
 https://codegen.cc/ https://codegen.work7z.com/ https://github.com/work7z/CodeGen
 https://imagestool.com/zh_CN/
+https://safeimagekit.com/ascii-art-from-image
 -->
 
 ## 🧰 其他工具箱
