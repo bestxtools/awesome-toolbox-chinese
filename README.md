@@ -31,6 +31,10 @@
 
   - Featured tools: [视频剪切](https://www.67tool.com/video/edit?type=cut), [图片压缩](https://www.67tool.com/images/imgCompress), [图片放大](https://www.67tool.com/images/enlarge)
 
+- [allinone.tools](https://allinone.tools/) - Free online tool-box with 70+ tools! (🇬🇧)
+
+  - Featured tools: [MD5 decrypt](https://allinone.tools/encryption/md5-decrypt), [Youtube Thumbnail Grabber](https://allinone.tools/social-media/thumbnail-grabber), [CSS Minify](https://allinone.tools/web/css-minify)
+
 - [atool.vip](https://atool.vip/) - 在线工具 - VIP
 
   - Featured tools: [批量生成多尺寸 APP Icon](https://atool.vip/appicon/), [图片 Base64 编码](https://atool.vip/base64), [在线颜色选择器 / 转换器](https://atool.vip/colorpicker)
