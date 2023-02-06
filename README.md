@@ -278,6 +278,10 @@
 - [zxgj.cn](https://www.zxgj.cn/) - 在线工具网 - 工作生活好帮手
 
   - Featured tools: [九宫格切图](https://www.zxgj.cn/g/jiugongge), [快递单号查询](https://www.zxgj.cn/g/kuaidi), [利息计算器](https://www.zxgj.cn/g/lixi)
+  
+- [Clipperly](https://www.clipperly.com/zh) - All-in-one file service. Convert, edit and optimize your files, online & free.
+
+  - Featured tools:[Video Converter](https://clipperly.com/zh/convert/video), [Image Converter](https://clipperly.com/zh/convert/image), [Document converter](https://clipperly.com/zh/convert/document), [Image editor](https://clipperly.com/zh/edit/image), 
 
 <!--
 <https://www.danstools.com/>
