@@ -54,6 +54,10 @@
 - [c.runoob.com](https://c.runoob.com/) - 菜鸟工具 - 不止于工具
 
   - Featured tools: [HTML/CSS/JS 在线工具](https://c.runoob.com/front-end/61/), [正则表达式在线测试](https://c.runoob.com/front-end/854/), [C 言在线工具](https://c.runoob.com/compile/11/)
+  
+- [clipperly.com](https://clipperly.com/zh) - Clipperly - All-in-one file service. Convert, edit and optimize your files, online & free.
+
+  - Featured tools: [Video Converter](https://clipperly.com/zh/convert/video), [Image Converter](https://clipperly.com/zh/convert/image), [Document converter](https://clipperly.com/zh/convert/document), [Image editor](https://clipperly.com/zh/edit/image)
 
 - [ctfever.uniiem.com](https://ctfever.uniiem.com/) - CTFever Toolkit by uniiem
 
@@ -278,6 +282,7 @@
 - [zxgj.cn](https://www.zxgj.cn/) - 在线工具网 - 工作生活好帮手
 
   - Featured tools: [九宫格切图](https://www.zxgj.cn/g/jiugongge), [快递单号查询](https://www.zxgj.cn/g/kuaidi), [利息计算器](https://www.zxgj.cn/g/lixi)
+
 
 <!--
 <https://www.danstools.com/>
