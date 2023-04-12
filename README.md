@@ -55,7 +55,7 @@
 - [c.runoob.com](https://c.runoob.com/) - 菜鸟工具 - 不止于工具
 
   - Featured tools: [HTML/CSS/JS 在线工具](https://c.runoob.com/front-end/61/), [正则表达式在线测试](https://c.runoob.com/front-end/854/), [C 言在线工具](https://c.runoob.com/compile/11/)
-  
+
 - [clipperly.com](https://clipperly.com/zh) - Clipperly - All-in-one file service. Convert, edit and optimize your files, online & free.
 
   - Featured tools: [Video Converter](https://clipperly.com/zh/convert/video), [Image Converter](https://clipperly.com/zh/convert/image), [Document converter](https://clipperly.com/zh/convert/document), [Image editor](https://clipperly.com/zh/edit/image)
@@ -103,6 +103,10 @@
 - [it-tools.tech](https://it-tools.tech/) - IT Tools - Handy online tools for developers ([Open source](https://github.com/CorentinTh/it-tools)) (🇬🇧)
 
   - Featured tools: [Token generator](https://it-tools.tech/token-generator), [Hash text](https://it-tools.tech/hash-text), [Bcrypt](https://it-tools.tech/bcrypt)
+
+- [jiuwa.net](https://www.jiuwa.net/) - 九蛙工具箱 - 网名昵称, 特殊符号, 微信小工具在线生成
+
+  - Featured tools: [头像生成器](https://diy.jiuwa.net/), [小人举牌照生成](https://www.jiuwa.net/jupai/), [随机网名生成器](https://www.jiuwa.net/sjwmsc/)
 
 - [json.cn](https://www.json.cn/) - JSON 在线解析及格式化验证 - JSON.cn
 
@@ -284,7 +288,6 @@
 
   - Featured tools: [九宫格切图](https://www.zxgj.cn/g/jiugongge), [快递单号查询](https://www.zxgj.cn/g/kuaidi), [利息计算器](https://www.zxgj.cn/g/lixi)
 
-
 <!--
 <https://www.danstools.com/>
 <https://github.com/gchq/CyberChef> <https://cyberchef.cn/>
@@ -293,6 +296,9 @@ https://convertio.co/zh/
 https://codegen.cc/ https://codegen.work7z.com/ https://github.com/work7z/CodeGen
 https://imagestool.com/zh_CN/
 https://safeimagekit.com/ascii-art-from-image
+https://10015.io/
+https://tool.browser.qq.com/
+https://www.lddgo.net/
 -->
 
 ## 🧰 其他工具箱
