@@ -13,7 +13,8 @@
 ## 🧰 在线工具箱
 
 > 工具箱网站排名说明：下面所列网站按域名字母顺序排序  
-> 每个网站的 featured tools 最多列 5 个
+> 每个网站的 featured tools 最多列 5 个  
+> 可以提交 **PR** 添加、修改
 
 - [123apps.com](https://123apps.com/cn/) - Web Apps by 123apps - 编辑、转换、创建
 
@@ -298,6 +299,24 @@ https://safeimagekit.com/ascii-art-from-image
 
 ...
 
+## 🏷️ 小鱼标签 (UTags) - 为链接添加用户标签
+
+此扩展/油猴脚本允许用户为网站的链接添加自定义标签。比如，可以给论坛的用户或帖子添加标签。
+
+**UTags** = **Usertags**。**Userscript**, **Userstyle** 可以让用户自定义网站的功能和样式，**Usertags** 允许用户自定义网站的标签。
+
+目前支持的网站
+
+- www.v2ex.com
+- 更多网站会陆续支持
+
+### 安装
+
+- Firefox 浏览器: 已上架 [Firefox Addon 商店](https://addons.mozilla.org/firefox/addon/utags/)，[点击这里](https://addons.mozilla.org/firefox/addon/utags/)安装。
+- 油猴脚本: [https://greasyfork.org/scripts/460718-utags-add-usertags-to-links](https://greasyfork.org/scripts/460718-utags-add-usertags-to-links)
+
+更多使用说明及源代码请访问 [https://github.com/utags/utags](https://github.com/utags/utags)
+
 ## ✨ 好工具周刊
 
 发现并分享有趣，有创意，免费、好用的工具，每周四发布。由 [BestXTools](https://www.bestxtools.com/) 创作。
@@ -317,5 +336,6 @@ Copyright (c) 2022 [Pipecraft](https://www.pipecraft.net). Licensed under the [C
 ## >\_
 
 [![Pipecraft](https://img.shields.io/badge/site-pipecraft-brightgreen)](https://www.pipecraft.net)
-[![PZWD](https://img.shields.io/badge/site-pzwd-brightgreen)](https://pzwd.net)
+[![UTags](https://img.shields.io/badge/site-UTags-brightgreen)](https://utags.pipecraft.net)
+[![DTO](https://img.shields.io/badge/site-DTO-brightgreen)](https://dto.pipecraft.net)
 [![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
