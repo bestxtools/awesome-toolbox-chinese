@@ -248,6 +248,10 @@
 
   - Featured tools: [哈希(hash)](https://tools.quickso.cn/tool.html#/tool/hash), [加密/解密](https://tools.quickso.cn/tool.html#/tool/encrypt), [BASE64 编码](https://tools.quickso.cn/tool.html#/tool/base64)
 
+- [tools.vsay.net](https://tools.vsay.net/) - VSAY 工具箱 - 一个非常 Nice 的程序员在线工具箱 ([Open source](https://github.com/aoaostar/toolbox))
+
+  - Featured tools: [base64 编码/解码](https://tools.vsay.net/base64), [字节单位转化](https://tools.vsay.net/byte_calc), [进制转化](https://tools.vsay.net/hex_convert)
+
 - [tools.yuanfen.net](https://tools.yuanfen.net/) - 猿奋工具箱
 
   - Featured tools: [财富自由计算器](https://tools.yuanfen.net/financial-freedom), [随机密码生成](https://tools.yuanfen.net/password), [HTML 实体转换](https://tools.yuanfen.net/entity)
