@@ -164,6 +164,14 @@
 
   - Featured tools: [今天吃什么？](https://t.xxgeek.com/tools/eatsm/), [极客域名权重查询](https://t.xxgeek.com/tools/rank), [SEO 自动工具](https://t.xxgeek.com/tools/seoauto)
 
+- [tol.vip](https://tol.vip/) - TOL在线工具
+
+  - Featured tools: [网页图片批量获取](https://tol.vip/patu),[时间戳转换](https://tol.vip/timestamp),[人民币大写转换工具](https://tol.vip/characters)
+
+- [www.geekstool.com](https://www.geekstool.com/) - 极客工具
+
+  - Featured tools: [sql美化](https://www.geekstool.com/tool/sql),[租房选房助手](https://www.geekstool.com/tool/xuanfang),[在线文本对比](https://www.geekstool.com/tool/diff)
+
 - [tableconvert.com](https://tableconvert.com/zh-CN/) - Table Convert Online 在线表格转换工具 - 让表格转换变得更容易
 
   - Featured tools: [CSV 转换为 Markdown 表格](https://tableconvert.com/zh-CN/csv-to-markdown), [Markdown 表格 转换为 HTML 表格](https://tableconvert.com/zh-CN/markdown-to-html), [Excel 转换为 Markdown 表格](https://tableconvert.com/zh-CN/excel-to-markdown)
