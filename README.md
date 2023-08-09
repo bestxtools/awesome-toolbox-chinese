@@ -76,6 +76,11 @@
 
   - Featured tools: [九宫切图工具](https://www.dute.org/image-clip), [Paypal 手续费计算器](https://www.dute.org/paypal-service-charge), [抖音风格文字生成器](https://www.dute.org/douyin-style-text)
 
+
+- [geekstool.com](https://www.geekstool.com/) - 极客工具
+
+  - Featured tools: [sql美化](https://www.geekstool.com/tool/sql), [租房选房助手](https://www.geekstool.com/tool/xuanfang), [在线文本对比](https://www.geekstool.com/tool/diff)
+
 - [gjk.cn](https://www.gjk.cn/) - 工具库 - 在线工具\_全能工具箱
 
   - Featured tools: [码农毒鸡汤](https://www.gjk.cn/soul), [中文简繁体转换](https://www.gjk.cn/jianfanti), [卡通头像制作](https://www.gjk.cn/katong)
@@ -175,6 +180,10 @@
 - [tinywow.com](https://tinywow.com/) - Free PDF, Video, Image & Other Online Tools - TinyWow (🇬🇧)
 
   - Featured tools: [PDF to JPG](https://tinywow.com/pdf/to-jpg), [Merge PDF](https://tinywow.com/pdf/merge), [Split PDF](https://tinywow.com/pdf/split)
+
+- [tol.vip](https://tol.vip/) - TOL在线工具
+
+  - Featured tools: [网页图片批量获取](https://tol.vip/patu), [时间戳转换](https://tol.vip/timestamp), [人民币大写转换工具](https://tol.vip/characters)
 
 - [tool.chinaz.com](https://tool.chinaz.com/) - 站长工具 - 站长之家
 
