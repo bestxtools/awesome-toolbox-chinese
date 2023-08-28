@@ -263,7 +263,7 @@
 
 - [tools.yuanfen.net](https://tools.yuanfen.net/) - 猿奋工具箱
 
-  - Featured tools: [财富自由计算器](https://tools.yuanfen.net/financial-freedom), [随机密码生成](https://tools.yuanfen.net/password), [HTML 实体转换](https://tools.yuanfen.net/entity)
+  - Featured tools: [财富自由计算器](https://tools.yuanfen.net/financial-freedom), [随机密码生成](https://tools.yuanfen.net/password), [图片合成 PDF](https://tools.yuanfen.net/image2pdf)
 
 - [tooltt.com](https://tooltt.com/) - 我的工具-程序员编程开发必备
 
