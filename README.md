@@ -157,6 +157,10 @@
 
   - Featured tools: [英语语法检查](https://smallseotools.com/grammar-checker/), [关键字推荐](https://smallseotools.com/keywords-suggestions-tool/), [关键字排名](https://smallseotools.com/keyword-position/)
 
+- [softwium.com](https://softwium.com/) - Developer tools
+
+  - Featured tools: [Data Generator](https://softwium.com/mockium/), [SQL Validator](https://softwium.com/sql-validator/), [Regex Visualizer](https://softwium.com/regex-explainer/)
+
 - [sojson.com](https://www.sojson.com/) - JSON 在线 \| JSON 解析格式化—SO JSON 在线工具
 
   - Featured tools: [JSON 解析](https://www.sojson.com/), [JSON 视图](https://www.sojson.com/editor.html), [JSON 着色](https://www.sojson.com/jsonfmt.html)
