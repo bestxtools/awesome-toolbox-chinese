@@ -141,6 +141,10 @@
 
   - Featured tools: [在线抠图，在线删除图片背景](https://www.qtool.net/imgmatting), [图片压缩](https://www.qtool.net/tpys), [在线拼图](https://www.qtool.net/picstitching)
 
+- [querygpt.com](https://github.com/MKY508/QueryGPT) - QueryGPT - 自然语言数据库查询工具
+
+  - Featured tools: [中文数据查询](https://github.com/MKY508/QueryGPT), [SQL自动生成](https://github.com/MKY508/QueryGPT), [数据可视化](https://github.com/MKY508/QueryGPT), [智能数据分析](https://github.com/MKY508/QueryGPT)
+
 - [quanxin.org](https://quanxin.org/) - 全新工具箱，免费在线工具
 
   - Featured tools: [九宫图生成器](https://quanxin.org/image-slice), [汉字转拼音](https://quanxin.org/hanzi-to-pinyin), [Git 命令速查表](https://quanxin.org/git-cheat-sheet)
