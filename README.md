@@ -358,3 +358,6 @@ Copyright (c) 2022 [Pipecraft](https://www.pipecraft.net). Licensed under the [C
 [![UTags](https://img.shields.io/badge/site-UTags-brightgreen)](https://utags.pipecraft.net)
 [![DTO](https://img.shields.io/badge/site-DTO-brightgreen)](https://dto.pipecraft.net)
 [![BestXTools](https://img.shields.io/badge/site-bestxtools-brightgreen)](https://www.bestxtools.com)
+
+
+- [ToolArks](https://toolarks.com/zh) - 隐私优先的在线工具箱，100% 浏览器本地运行，不上传任何数据。支持 JSON 格式化、哈希计算、图片压缩等 13+ 工具。
