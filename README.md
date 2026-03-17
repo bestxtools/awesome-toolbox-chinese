@@ -225,6 +225,10 @@
 
   - Featured tools: [万年历](https://toolight.cn/common/calendar), [身份证信息](https://toolight.cn/common/idcard), [在线解压缩](https://toolight.cn/common/unzip)
 
+- [toolarks.com](https://toolarks.com/) - ToolArks - 全面、隐私优先的在线工具集 (🇬🇧)
+
+  - Featured tools: [JSON Formatter/Validator](https://toolarks.com/json-formatter), [JSON Compare/Diff](https://toolarks.com/json-compare), [Text/Code Diff Tools](https://toolarks.com/text-compare)
+
 - [tooling.one](https://tooling.one/) - One Tooling ([Open source](https://github.com/egoist/tooling.one)) (🇬🇧)
 
   - Featured tools: [Base64 Encode/Decode](https://tooling.one/base64), [HTML to Markdown](https://tooling.one/html-to-markdown), [JSON to Rust](https://tooling.one/json-to-rust)
