@@ -121,6 +121,10 @@
 
   - Featured tools: [Java 正则表达式测试](https://www.lddgo.net/string/regex), [CRC 在线计算](https://www.lddgo.net/encrypt/crc), [在线随机数生成器](https://www.lddgo.net/string/randomnumber)
 
+- [leaiclaw.com/play](https://leaiclaw.com/play) - 打工人实验室 - 免费每日心理测试与运势工具，含 MBTI、塔罗、星座等 15+ 小游戏
+
+  - Featured tools: [MBTI 人格测试](https://leaiclaw.com/play/mbti.html), [每日塔罗占卜](https://leaiclaw.com/play/tarot.html), [星座运势](https://leaiclaw.com/play/zodiac.html)
+
 - [manytools.org](https://manytools.org/) - Your online toolshed: many tools for web developers, system admins & webworkers (🇬🇧)
 
   - Featured tools: [What is my IP](https://manytools.org/network/what-is-my-ip/), [Type upside down](https://manytools.org/facebook-twitter/type-upside-down-aboqe/), [ASCII banners](https://manytools.org/hacker-tools/ascii-banner/)
