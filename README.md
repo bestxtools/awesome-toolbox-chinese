@@ -76,6 +76,9 @@
 
   - Featured tools: [九宫切图工具](https://www.dute.org/image-clip), [Paypal 手续费计算器](https://www.dute.org/paypal-service-charge), [抖音风格文字生成器](https://www.dute.org/douyin-style-text)
 
+- [eontools.com](https://eontools.com/) - Eon Tools - 3000+ Free Online Tools With No Signups And No Data Uploads (🇬🇧)
+
+  - Featured tools: [Physics Tools](https://eontools.com/physics/), [Dev Tools](https://eontools.com/dev/), [Finance Tools](https://eontools.com/finance/), [Health Tools](https://eontools.com/health/), [Maths Tools](https://eontools.com/maths/)
 
 - [geekstool.com](https://www.geekstool.com/) - 极客工具
 
