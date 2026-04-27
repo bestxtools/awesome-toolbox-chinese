@@ -116,6 +116,10 @@
 - [json.cn](https://www.json.cn/) - JSON 在线解析及格式化验证 - JSON.cn
 
   - Featured tools: [JSON 在线解析](https://www.json.cn/json/jsononline.html), [JSON 压缩转义](https://www.json.cn/json/jsonzip.html), [JSON 生成 JAVA 实体](https://www.json.cn/json/json2java.html)
+- [keyboardtester.click](https://keyboardtester.click/) - KeyboardTester.click - Free browser-based hardware diagnostic toolbox (English)
+
+  - Featured tools: [Keyboard Ghosting Test](https://keyboardtester.click/keyboard-ghosting-test.php), [Mouse DPI Tester](https://keyboardtester.click/mouse_sensitivity_DPI_tester.php), [Dead Pixel Test](https://keyboardtester.click/dead-pixel-test.php), [Mic Tester](https://keyboardtester.click/mic-tester.php), [Webcam Test](https://keyboardtester.click/webcamtesterindex.php)
+
 
 - [lddgo.net](https://www.lddgo.net/) - 在线工具大全
 
