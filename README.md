@@ -32,6 +32,10 @@
 
   - Featured tools: [视频剪切](https://www.67tool.com/video/edit?type=cut), [图片压缩](https://www.67tool.com/images/imgCompress), [图片放大](https://www.67tool.com/images/enlarge)
 
+- [adwatak.cloud](https://adwatak.cloud/) - Adwatak - منصة أدوات مجانية متعددة اللغات (🇸🇦 / 🇬🇧)
+
+  - Featured tools: [AI Content Detector](https://adwatak.cloud/tools/ai-content-detector), [SEO Audit](https://adwatak.cloud/tools/seo-audit), [PDF to Word](https://adwatak.cloud/tools/pdf-to-word), [QR Code Generator](https://adwatak.cloud/tools/qr-generator), [Image Resizer](https://adwatak.cloud/tools/image-resizer)
+
 - [allinone.tools](https://allinone.tools/) - Free online tool-box with 70+ tools! (🇬🇧)
 
   - Featured tools: [MD5 decrypt](https://allinone.tools/encryption/md5-decrypt), [Youtube Thumbnail Grabber](https://allinone.tools/social-media/thumbnail-grabber), [CSS Minify](https://allinone.tools/web/css-minify)
