@@ -301,6 +301,10 @@
 
   - Featured tools: [九宫格切图](https://www.zxgj.cn/g/jiugongge), [快递单号查询](https://www.zxgj.cn/g/kuaidi), [利息计算器](https://www.zxgj.cn/g/lixi)
 
+- [vaultool.com](https://vaultool.com) - Vaultool - 50+ free online tools, all processing in browser, privacy-first
+
+  - Featured tools: [PDF Merge](https://vaultool.com/merge-pdf), [Image Compress](https://vaultool.com/image-compressor), [JSON Formatter](https://vaultool.com/json-formatter), [AI Remove BG](https://vaultool.com/remove-background)
+
 <!--
 <https://www.danstools.com/>
 <https://github.com/gchq/CyberChef> <https://cyberchef.cn/>
