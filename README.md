@@ -64,6 +64,10 @@
 
   - Featured tools: [ROT-13 编码](https://ctfever.uniiem.com/tools/rot-series), [摩尔斯码/摩斯密码](https://ctfever.uniiem.com/tools/morse-code), [凯撒加密](https://ctfever.uniiem.com/tools/caesar-cipher)
 
+- [devtool.blueblueliu.com](https://devtool.blueblueliu.com/) - DevUtils - 开发工具，不上传也能用（28 个浏览器本地运行的开发者工具）
+
+  - Featured tools: [JSON 格式化](https://devtool.blueblueliu.com/tools/json-formatter.html), [cURL 转代码](https://devtool.blueblueliu.com/tools/curl-converter.html), [JWT 编辑器](https://devtool.blueblueliu.com/tools/jwt-editor.html), [时间戳转换](https://devtool.blueblueliu.com/tools/timestamp-converter.html), [正则测试器](https://devtool.blueblueliu.com/tools/regex-tester.html)
+
 - [devtool.tech](https://devtool.tech/) - 开发者武器库 · 属于程序员的工具箱
 
   - Featured tools: [Markdown 一纸简历](https://cv.devtool.tech/app), [Markdown 编辑器](https://markdown.devtool.tech/app), [微图床 - 个人专属 Github 图床](https://devtool.tech/gallery)
