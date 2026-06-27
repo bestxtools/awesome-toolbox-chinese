@@ -113,6 +113,10 @@
 
   - Featured tools: [头像生成器](https://diy.jiuwa.net/), [小人举牌照生成](https://www.jiuwa.net/jupai/), [随机网名生成器](https://www.jiuwa.net/sjwmsc/)
 
+- [jsq3000.com](https://jsq3000.com/) - 计算器3000 - 面向国内用户的免费在线计算器工具站
+
+  - Featured tools: [房贷计算器](https://jsq3000.com/finance/mortgage), [个税计算器](https://jsq3000.com/finance/income-tax), [工资到手计算器](https://jsq3000.com/finance/salary), [车贷落地价计算器](https://jsq3000.com/auto/car-loan), [复利计算器](https://jsq3000.com/finance/compound-interest)
+
 - [json.cn](https://www.json.cn/) - JSON 在线解析及格式化验证 - JSON.cn
 
   - Featured tools: [JSON 在线解析](https://www.json.cn/json/jsononline.html), [JSON 压缩转义](https://www.json.cn/json/jsonzip.html), [JSON 生成 JAVA 实体](https://www.json.cn/json/json2java.html)
