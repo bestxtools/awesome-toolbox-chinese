@@ -64,6 +64,10 @@
 
   - Featured tools: [ROT-13 编码](https://ctfever.uniiem.com/tools/rot-series), [摩尔斯码/摩斯密码](https://ctfever.uniiem.com/tools/morse-code), [凯撒加密](https://ctfever.uniiem.com/tools/caesar-cipher)
 
+- [devbox.tools](https://devbox.tools/zh/) - DevBox Tools - 面向开发者和专业人士的免费在线工具箱 (支持 13 种语言)
+
+  - Featured tools: [时间戳转换](https://devbox.tools/zh/utils/timestamp-converter/), [正则测试](https://devbox.tools/zh/utils/regex-tester/), [哈希生成](https://devbox.tools/zh/utils/md5-sha1-sha256-hash-generator/), [Base64 编解码](https://devbox.tools/zh/utils/base64-decoder/), [密码生成](https://devbox.tools/zh/utils/password-generator/)
+
 - [devtool.tech](https://devtool.tech/) - 开发者武器库 · 属于程序员的工具箱
 
   - Featured tools: [Markdown 一纸简历](https://cv.devtool.tech/app), [Markdown 编辑器](https://markdown.devtool.tech/app), [微图床 - 个人专属 Github 图床](https://devtool.tech/gallery)
