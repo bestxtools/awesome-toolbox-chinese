@@ -120,6 +120,10 @@
 - [lddgo.net](https://www.lddgo.net/) - 在线工具大全
 
   - Featured tools: [Java 正则表达式测试](https://www.lddgo.net/string/regex), [CRC 在线计算](https://www.lddgo.net/encrypt/crc), [在线随机数生成器](https://www.lddgo.net/string/randomnumber)
+ 
+- [lynote.ai](https://www.lynote.ai/) - 一站式学习助手工具
+
+  - Featured tools: [AI Humanizer Text](https://lynote.ai/ai-humanizer), [AI Detector](https://lynote.ai/ai-detector), [AI Notes](https://lynote.ai/ai-note-generator)
 
 - [manytools.org](https://manytools.org/) - Your online toolshed: many tools for web developers, system admins & webworkers (🇬🇧)
 
