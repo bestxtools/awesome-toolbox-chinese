@@ -109,6 +109,10 @@
 
   - Featured tools: [Token generator](https://it-tools.tech/token-generator), [Hash text](https://it-tools.tech/hash-text), [Bcrypt](https://it-tools.tech/bcrypt)
 
+- [jiebang.site](https://www.jiebang.site/) - 捷帮工具站 - 免费在线小工具（170+ 工具，纯前端运行，数据不上传）
+
+  - Featured tools: [JSON 格式化](https://www.jiebang.site/tools/json-formatter.html), [二维码生成器](https://www.jiebang.site/tools/qrcode-generator.html), [密码生成器](https://www.jiebang.site/tools/password-generator.html)
+
 - [jiuwa.net](https://www.jiuwa.net/) - 九蛙工具箱 - 网名昵称, 特殊符号, 微信小工具在线生成
 
   - Featured tools: [头像生成器](https://diy.jiuwa.net/), [小人举牌照生成](https://www.jiuwa.net/jupai/), [随机网名生成器](https://www.jiuwa.net/sjwmsc/)
