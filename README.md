@@ -128,6 +128,10 @@
 - [oktools.net](https://oktools.net/) - 在线工具 - OKTools
 
   - Featured tools: [JSON 格式化](https://oktools.net/json), [Unix 时间戳](https://oktools.net/timestamp), [图片 Base64 编码](https://oktools.net/image2base64)
+  
+- [onetoolbox.dev](https://onetoolbox.dev/) - OneToolBox - Free 100% Private Client-Side Browser Utilities & Developer Tools (🇬🇧)
+  
+  - Featured tools: [Image Compressor](https://onetoolbox.dev/tools/image-compressor), [JSON Formatter & Viewer](https://onetoolbox.dev/tools/json-formatter), [UUID Generator](https://onetoolbox.dev/tools/uuid-generator), [WebP Converter](https://onetoolbox.dev/tools/webp-converter), [Password Generator](https://onetoolbox.dev/tools/password-generator)
 
 - [ol.woobx.cn](https://ol.woobx.cn/) - 一个木函 - 多功能效率工具箱
 
