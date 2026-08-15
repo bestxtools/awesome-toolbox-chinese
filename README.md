@@ -64,6 +64,10 @@
 
   - Featured tools: [ROT-13 编码](https://ctfever.uniiem.com/tools/rot-series), [摩尔斯码/摩斯密码](https://ctfever.uniiem.com/tools/morse-code), [凯撒加密](https://ctfever.uniiem.com/tools/caesar-cipher)
 
+- [deerimage.com](https://deerimage.com/) - 小鹿 Image - 免费在线图片工具，浏览器本地处理，图片不上传
+
+  - Featured tools: [证件照制作](https://deerimage.com/tools/id-photo), [在线签名设计](https://deerimage.com/tools/signature-maker), [在线画画](https://deerimage.com/tools/drawing-board)
+
 - [devtool.tech](https://devtool.tech/) - 开发者武器库 · 属于程序员的工具箱
 
   - Featured tools: [Markdown 一纸简历](https://cv.devtool.tech/app), [Markdown 编辑器](https://markdown.devtool.tech/app), [微图床 - 个人专属 Github 图床](https://devtool.tech/gallery)
