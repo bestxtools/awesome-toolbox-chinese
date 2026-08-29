@@ -125,6 +125,10 @@
 
   - Featured tools: [What is my IP](https://manytools.org/network/what-is-my-ip/), [Type upside down](https://manytools.org/facebook-twitter/type-upside-down-aboqe/), [ASCII banners](https://manytools.org/hacker-tools/ascii-banner/)
 
+- [nutilz.com](https://nutilz.com/) - Nutilz - Free Online Developer & Web Utilities (🇬🇧)
+
+  - Featured tools: [Regex Tester](https://nutilz.com/regex-tester), [JSON Formatter](https://nutilz.com/json-formatter), [Timestamp Converter](https://nutilz.com/timestamp-converter), [Color Picker](https://nutilz.com/color-picker), [UUID Generator](https://nutilz.com/uuid-generator)
+
 - [oktools.net](https://oktools.net/) - 在线工具 - OKTools
 
   - Featured tools: [JSON 格式化](https://oktools.net/json), [Unix 时间戳](https://oktools.net/timestamp), [图片 Base64 编码](https://oktools.net/image2base64)
