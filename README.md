@@ -32,6 +32,10 @@
 
   - Featured tools: [视频剪切](https://www.67tool.com/video/edit?type=cut), [图片压缩](https://www.67tool.com/images/imgCompress), [图片放大](https://www.67tool.com/images/enlarge)
 
+- [abox.tools](https://abox.tools/zh/) - 一箱子工具 - 50 个在线工具，全部在浏览器里跑，文件不上传
+
+  - Featured tools: [Base64 编码解码](https://abox.tools/zh/base64/), [图片压缩](https://abox.tools/zh/compress-image/), [PDF 合并与拆分](https://abox.tools/zh/merge-pdf/), [HEIC 转 JPG](https://abox.tools/zh/heic-to-jpg/), [MP4 转换](https://abox.tools/zh/convert-to-mp4/)
+
 - [allinone.tools](https://allinone.tools/) - Free online tool-box with 70+ tools! (🇬🇧)
 
   - Featured tools: [MD5 decrypt](https://allinone.tools/encryption/md5-decrypt), [Youtube Thumbnail Grabber](https://allinone.tools/social-media/thumbnail-grabber), [CSS Minify](https://allinone.tools/web/css-minify)
@@ -224,10 +228,6 @@
 - [toolight.cn](https://toolight.cn/) - 偷懒工具 - 努力做更好用的在线工具
 
   - Featured tools: [万年历](https://toolight.cn/common/calendar), [身份证信息](https://toolight.cn/common/idcard), [在线解压缩](https://toolight.cn/common/unzip)
-
-- [tooling.one](https://tooling.one/) - One Tooling ([Open source](https://github.com/egoist/tooling.one)) (🇬🇧)
-
-  - Featured tools: [Base64 Encode/Decode](https://tooling.one/base64), [HTML to Markdown](https://tooling.one/html-to-markdown), [JSON to Rust](https://tooling.one/json-to-rust)
 
 - [toolnb.com](https://www.toolnb.com/) - 爱资料工具-好用的在线工具箱
 
