@@ -77,6 +77,11 @@
   - Featured tools: [九宫切图工具](https://www.dute.org/image-clip), [Paypal 手续费计算器](https://www.dute.org/paypal-service-charge), [抖音风格文字生成器](https://www.dute.org/douyin-style-text)
 
 
+- [fileontap.com](https://fileontap.com/) - FileOnTap - 免费的浏览器端图片/PDF 工具箱，文件不上传服务器
+
+  - Featured tools: [HEIC 转 PNG](https://fileontap.com/heic-to-png/)
+
+
 - [geekstool.com](https://www.geekstool.com/) - 极客工具
 
   - Featured tools: [sql美化](https://www.geekstool.com/tool/sql), [租房选房助手](https://www.geekstool.com/tool/xuanfang), [在线文本对比](https://www.geekstool.com/tool/diff)
