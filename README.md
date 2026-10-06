@@ -157,6 +157,10 @@
 
   - Featured tools: [英语语法检查](https://smallseotools.com/grammar-checker/), [关键字推荐](https://smallseotools.com/keywords-suggestions-tool/), [关键字排名](https://smallseotools.com/keyword-position/)
 
+- [snappykit.site](https://snappykit.site/) - SnappyKit - 40+ 免费在线图片工具，全部在浏览器本地处理（Canvas + WebAssembly），无需注册、不上传文件
+
+  - Featured tools: [HEIC 转换器](https://snappykit.site/heic-converter), [图片压缩](https://snappykit.site/compress-image), [图片转 ICO](https://snappykit.site/image-to-ico)
+
 - [sojson.com](https://www.sojson.com/) - JSON 在线 \| JSON 解析格式化—SO JSON 在线工具
 
   - Featured tools: [JSON 解析](https://www.sojson.com/), [JSON 视图](https://www.sojson.com/editor.html), [JSON 着色](https://www.sojson.com/jsonfmt.html)
