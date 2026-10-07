@@ -77,6 +77,10 @@
   - Featured tools: [九宫切图工具](https://www.dute.org/image-clip), [Paypal 手续费计算器](https://www.dute.org/paypal-service-charge), [抖音风格文字生成器](https://www.dute.org/douyin-style-text)
 
 
+- [followerbestellen.de](https://followerbestellen.de/tools) - FollowerBestellen.de - Two free manual social-media planning calculators (German UI)
+
+  - Featured tools: [Engagement rate](https://followerbestellen.de/tools/engagement-rate), [Follower-growth pace](https://followerbestellen.de/tools/follower-growth)
+
 - [geekstool.com](https://www.geekstool.com/) - 极客工具
 
   - Featured tools: [sql美化](https://www.geekstool.com/tool/sql), [租房选房助手](https://www.geekstool.com/tool/xuanfang), [在线文本对比](https://www.geekstool.com/tool/diff)
