@@ -44,6 +44,10 @@
 
   - Featured tools: [信用卡分期计算器](http://www.atoolbox.net/Tool.php?Id=1021), [像素风格头像生成器](http://www.atoolbox.net/Tool.php?Id=1035), [翅膀昵称生成器](http://www.atoolbox.net/Tool.php?Id=1025)
 
+- [barcodegen.net](https://www.barcodegen.net/zh) - barcodegen.net - 免费在线条码生成器，支持 Code 128、EAN-13、UPC-A、二维码、Data Matrix、PDF417 等 35 种条码类型，可导出 SVG/PNG/JPG，支持批量导入 CSV 打包 ZIP 下载，无需注册、无水印、可商用
+
+  - Featured tools: [在线条码生成器](https://www.barcodegen.net/zh), [EAN-13 条码生成](https://www.barcodegen.net/zh/Ean13), [二维码生成](https://www.barcodegen.net/zh/Qrcode), [条码扫描识别](https://www.barcodegen.net/zh/barcode-scanner), [条码标签打印](https://www.barcodegen.net/zh/barcode-label-print)
+
 - [bazinga.tools](https://bazinga.tools/) - Bazinga Tools - The All-in-One Toolbox for Developers ([Open source](https://github.com/luin/bazinga)) (🇬🇧)
 
   - Featured tools: [HTML Formatter](https://bazinga.tools/html), [JSON to CSV Converter](https://bazinga.tools/json-to-csv), [Markdown Table Generator](https://bazinga.tools/markdown-table-generator)
