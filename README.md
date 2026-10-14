@@ -314,6 +314,10 @@ https://tool.browser.qq.com/
 https://www.lddgo.net/
 -->
 
+
+- [devtools.help](https://devtools.help/) - DevTools Help - 免费在线开发者工具箱（JSON/YAML/Base64/正则/Hash/JWT/时间戳/二维码/Go 速查表），纯浏览器运行无需注册
+
+  - Featured tools: [JSON 格式化](https://devtools.help/formatter/), [JWT 解码](https://devtools.help/jwt/), [Hash 生成](https://devtools.help/hash/), [时间戳转换](https://devtools.help/timestamp/), [正则测试](https://devtools.help/regex/)
 ## 🧰 其他工具箱
 
 ...
