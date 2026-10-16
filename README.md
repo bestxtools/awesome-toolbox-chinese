@@ -121,6 +121,10 @@
 
   - Featured tools: [Java 正则表达式测试](https://www.lddgo.net/string/regex), [CRC 在线计算](https://www.lddgo.net/encrypt/crc), [在线随机数生成器](https://www.lddgo.net/string/randomnumber)
 
+- [librecalculator.com](https://librecalculator.com/) - Libre Calculator - 免费开源的在线计算器合集，根据输入展示计算步骤、图解和简短讲解（英文界面） (🇬🇧)
+
+  - Featured tools: [分数计算器](https://librecalculator.com/calculators/fractions/), [百分比计算器](https://librecalculator.com/calculators/percentage/)
+
 - [manytools.org](https://manytools.org/) - Your online toolshed: many tools for web developers, system admins & webworkers (🇬🇧)
 
   - Featured tools: [What is my IP](https://manytools.org/network/what-is-my-ip/), [Type upside down](https://manytools.org/facebook-twitter/type-upside-down-aboqe/), [ASCII banners](https://manytools.org/hacker-tools/ascii-banner/)
