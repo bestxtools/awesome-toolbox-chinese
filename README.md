@@ -72,6 +72,10 @@
 
   - Featured tools: [Online Text Compare Tool](https://devtoolcafe.com/tools/diff), [JWT Decoder](https://devtoolcafe.com/tools/jwtdecoder), [Regular Expression Tester and Visualizer](https://devtoolcafe.com/tools/regex)
 
+- [doc2x.noedgeai.com](https://doc2x.noedgeai.com/zh-cn/tools/pdf-merge/) - Doc2X 实用工具箱 - PDF、Markdown 与图片工具；含免费 PDF 合并，平台部分功能收费。
+
+  - Featured tools: [PDF 合并](https://doc2x.noedgeai.com/zh-cn/tools/pdf-merge/)
+
 - [dute.org](https://www.dute.org/) - 专注于体验的免费在线工具 - 独特工具箱 - dute.org
 
   - Featured tools: [九宫切图工具](https://www.dute.org/image-clip), [Paypal 手续费计算器](https://www.dute.org/paypal-service-charge), [抖音风格文字生成器](https://www.dute.org/douyin-style-text)
