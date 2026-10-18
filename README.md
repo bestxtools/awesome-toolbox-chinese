@@ -64,6 +64,8 @@
 
   - Featured tools: [ROT-13 编码](https://ctfever.uniiem.com/tools/rot-series), [摩尔斯码/摩斯密码](https://ctfever.uniiem.com/tools/morse-code), [凯撒加密](https://ctfever.uniiem.com/tools/caesar-cipher)
 
+- [cubbbix.com](https://cubbbix.com) - 500+ 免费在线工具集合：计算器、单位转换、文本处理与图片工具
+
 - [devtool.tech](https://devtool.tech/) - 开发者武器库 · 属于程序员的工具箱
 
   - Featured tools: [Markdown 一纸简历](https://cv.devtool.tech/app), [Markdown 编辑器](https://markdown.devtool.tech/app), [微图床 - 个人专属 Github 图床](https://devtool.tech/gallery)
