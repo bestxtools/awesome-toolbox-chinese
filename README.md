@@ -229,6 +229,10 @@
 
   - Featured tools: [Base64 Encode/Decode](https://tooling.one/base64), [HTML to Markdown](https://tooling.one/html-to-markdown), [JSON to Rust](https://tooling.one/json-to-rust)
 
+- [toolknit.com](https://toolknit.com/) - ToolKnit - 支持中英文的 PDF、图片、音视频和文本在线工具箱
+
+  - Featured tools: [PDF 转图片](https://toolknit.com/tools/pdf-to-image.html), [文本对比](https://toolknit.com/tools/text-diff.html), [颜色选择器](https://toolknit.com/tools/color-picker.html)
+
 - [toolnb.com](https://www.toolnb.com/) - 爱资料工具-好用的在线工具箱
 
   - Featured tools: [域名 Whois 详细信息查询](https://www.toolnb.com/domaininfo/baidu.com.html), [Alexa 历史排名查询](https://www.toolnb.com/alexa/baidu.com.html), [域名被墙查询](https://www.toolnb.com/beiqiang/index.html)
