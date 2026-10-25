@@ -133,6 +133,10 @@
 
   - Featured tools: [网络测速](https://ol.woobx.cn/tool/speedtest), [番茄时钟](https://ol.woobx.cn/tool/pomodoro-clock), [图片转 Base64](https://ol.woobx.cn/tool/image2base64)
 
+- [pastezap.com](https://pastezap.com/zh/) - PasteZap — 日常任务工具
+
+  - Featured tools: [合并与拆分 PDF](https://pastezap.com/zh/tools/pdf-merger-splitter/), [PDF 转 Word（支持 OCR）](https://pastezap.com/zh/tools/pdf-to-word/), [图片压缩](https://pastezap.com/zh/tools/image-compressor/), [图片背景移除](https://pastezap.com/zh/tools/background-remover/), [二维码生成器](https://pastezap.com/zh/tools/qr-code-generator/)
+
 - [piliapp.com](https://cn.piliapp.com/) - 工具邦 - PiliApp
 
   - Featured tools: [随机抽签器](https://cn.piliapp.com/random/lots/), [抛硬币](https://cn.piliapp.com/random/coin/), [轮盘](https://cn.piliapp.com/random/wheel/)
