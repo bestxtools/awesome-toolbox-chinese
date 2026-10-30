@@ -125,6 +125,10 @@
 
   - Featured tools: [What is my IP](https://manytools.org/network/what-is-my-ip/), [Type upside down](https://manytools.org/facebook-twitter/type-upside-down-aboqe/), [ASCII banners](https://manytools.org/hacker-tools/ascii-banner/)
 
+- [mapchaxun.cn](https://www.mapchaxun.cn/) - 地图查询网 - 免费在线地图与位置查询工具
+
+  - Featured tools: [经纬度查询](https://www.mapchaxun.cn/jingweidu), [海拔查询](https://www.mapchaxun.cn/elevation), [批量坐标转换](https://www.mapchaxun.cn/bathLocationChange), [当前位置查询](https://www.mapchaxun.cn/myLocation), [日出日落查询](https://www.mapchaxun.cn/suncalcMes)
+
 - [oktools.net](https://oktools.net/) - 在线工具 - OKTools
 
   - Featured tools: [JSON 格式化](https://oktools.net/json), [Unix 时间戳](https://oktools.net/timestamp), [图片 Base64 编码](https://oktools.net/image2base64)
