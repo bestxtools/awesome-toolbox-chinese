@@ -64,6 +64,10 @@
 
   - Featured tools: [ROT-13 编码](https://ctfever.uniiem.com/tools/rot-series), [摩尔斯码/摩斯密码](https://ctfever.uniiem.com/tools/morse-code), [凯撒加密](https://ctfever.uniiem.com/tools/caesar-cipher)
 
+- [deertools.cn](https://deertools.cn/) - DeerTools（小鹿工具），免费中文在线工具箱，涵盖文件处理、文本处理、开发辅助和日常决策。无需注册，文件在浏览器本地处理。
+
+  - Featured tools: [ZIP 在线解压](https://deertools.cn/tools/zip-preview), [幸运大转盘](https://deertools.cn/tools/wheel), [Wi-Fi 二维码生成](https://deertools.cn/tools/wifi-qr)
+
 - [devtool.tech](https://devtool.tech/) - 开发者武器库 · 属于程序员的工具箱
 
   - Featured tools: [Markdown 一纸简历](https://cv.devtool.tech/app), [Markdown 编辑器](https://markdown.devtool.tech/app), [微图床 - 个人专属 Github 图床](https://devtool.tech/gallery)
