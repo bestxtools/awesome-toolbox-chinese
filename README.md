@@ -48,6 +48,10 @@
 
   - Featured tools: [HTML Formatter](https://bazinga.tools/html), [JSON to CSV Converter](https://bazinga.tools/json-to-csv), [Markdown Table Generator](https://bazinga.tools/markdown-table-generator)
 
+- [betterpdfconvert.com](https://betterpdfconvert.com/) - BetterPDF - 极简快速的电子书转 PDF 在线工具 (🇨🇳/🇬🇧)
+
+  - Featured tools: [EPUB 转 PDF](https://betterpdfconvert.com/epub-to-pdf), [AZW3 转 PDF](https://betterpdfconvert.com/azw3-to-pdf), [MOBI 转 PDF](https://betterpdfconvert.com/mobi-to-pdf)
+
 - [browserling.com](https://www.browserling.com/tools) - Web Developer Tools - Programmer Tools - Online - Browserling (🇬🇧)
 
   - Featured tools: [json to yaml converter](https://onlinejsontools.com/convert-json-to-yaml), [yaml validator](https://onlineyamltools.com/validate-yaml), [csv to json converter](https://onlinecsvtools.com/convert-csv-to-json), [unicode text normalizer](https://onlineunicodetools.com/normalize-unicode-text)
