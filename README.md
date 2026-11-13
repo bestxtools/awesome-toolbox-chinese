@@ -265,6 +265,8 @@
 
   - Featured tools: [财富自由计算器](https://tools.yuanfen.net/financial-freedom), [随机密码生成](https://tools.yuanfen.net/password), [图片合成 PDF](https://tools.yuanfen.net/image2pdf)
 
+- [toolsriver.com](https://toolsriver.com/) - ToolsRiver 免费在线工具箱，提供计算器、转换器及 PDF、图像和 JSON 工具 (🇬🇧)
+
 - [tooltt.com](https://tooltt.com/) - 我的工具-程序员编程开发必备
 
   - Featured tools: [在线 CSV 转 html,table 代码](https://tooltt.com/csv2htmltable/), [在线 CSV 转 JSON](https://tooltt.com/csv2json/), [在线 XPath 解析 XML 测试工具](https://tooltt.com/xmlxpath/)
