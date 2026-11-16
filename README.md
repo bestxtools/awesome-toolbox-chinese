@@ -97,6 +97,10 @@
 
   - Featured tools: [莫尔斯电码](http://www.hiencode.com/morse.html), [AES 加解密](http://www.hiencode.com/caes.html), [DES 加解密](http://www.hiencode.com/cdes.html)
 
+- [humanpen.net](https://humanpen.net/) - HumanPen - AI 文档处理与多语言翻译工具（支持 12 种语言文档翻译保留原排版、文档级 Humanize 润饰、文档精简与引用格式校正，注册赠 100 积分）
+
+  - Featured tools: [文档翻译](https://humanpen.net/), [Humanize 润饰](https://humanpen.net/), [文档精简](https://humanpen.net/), [引用格式校正](https://humanpen.net/)
+
 - [iamwawa.cn](https://www.iamwawa.cn/) - 蛙蛙工具 - 便捷的在线工具网站
 
   - Featured tools: [英文字母大小写转换](https://www.iamwawa.cn/daxiaoxie.html), [文本去重工具](https://www.iamwawa.cn/quchong.html), [人民币大写转换器](https://www.iamwawa.cn/renminbi.html)
