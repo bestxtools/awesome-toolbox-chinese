@@ -297,6 +297,10 @@
 
   - Featured tools: [音乐搜索器](https://www.yeyulingfeng.com/tools/music/), [长度单位换算](https://www.yeyulingfeng.com/tools/unit.html), [中国亲戚关系计算器](https://www.yeyulingfeng.com/tools/qinqi.html)
 
+- [yilibazi.com](https://www.yilibazi.com/) - 依理排盘 - 八字四柱与紫微斗数在线排盘，确定性历法规则
+
+  - Featured tools: [八字排盘](https://www.yilibazi.com/zh-tw/paipan/), [2027 丁未年指南](https://www.yilibazi.com/zh-tw/guide/2027-dingwei.html), [命理百科](https://www.yilibazi.com/zh-tw/baike/)
+
 - [zxgj.cn](https://www.zxgj.cn/) - 在线工具网 - 工作生活好帮手
 
   - Featured tools: [九宫格切图](https://www.zxgj.cn/g/jiugongge), [快递单号查询](https://www.zxgj.cn/g/kuaidi), [利息计算器](https://www.zxgj.cn/g/lixi)
