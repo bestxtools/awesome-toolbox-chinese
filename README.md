@@ -97,7 +97,7 @@
 
   - Featured tools: [莫尔斯电码](http://www.hiencode.com/morse.html), [AES 加解密](http://www.hiencode.com/caes.html), [DES 加解密](http://www.hiencode.com/cdes.html)
 
-- [humanpen.net](https://humanpen.net/) - HumanPen - AI 文档处理与多语言翻译工具（支持 12 种语言文档翻译保留原排版、文档级 Humanize 润饰、文档精简与引用格式校正，注册赠 100 积分）
+- [humanpen.net](https://humanpen.net/) - HumanPen - AI 文档处理与多语言翻译工具（支持 12 种语言文档翻译尽量保留原排版、文档级 Humanize 润饰、文档精简与引用格式校正，注册赠 100 积分，商业积分制）
 
   - Featured tools: [文档翻译](https://humanpen.net/), [Humanize 润饰](https://humanpen.net/), [文档精简](https://humanpen.net/), [引用格式校正](https://humanpen.net/)
 
