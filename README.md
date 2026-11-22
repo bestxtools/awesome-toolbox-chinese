@@ -121,6 +121,10 @@
 
   - Featured tools: [Java 正则表达式测试](https://www.lddgo.net/string/regex), [CRC 在线计算](https://www.lddgo.net/encrypt/crc), [在线随机数生成器](https://www.lddgo.net/string/randomnumber)
 
+- [lifevor.com](https://lifevor.com/zh/) - Lifevor 在线工具箱 - 120+ 纯浏览器本地计算的免费在线工具与计算器，零上传、免登录
+
+  - Featured tools: [Barista FIRE 计算器](https://lifevor.com/zh/tools/barista-fire-calculator/), [债务雪球计算器](https://lifevor.com/zh/tools/snowball-method-calculator/), [环氧树脂计算器](https://lifevor.com/zh/tools/epoxy-calculator/), [混响延迟计算器](https://lifevor.com/zh/tools/reverb-calculator/), [批量图片缩放](https://lifevor.com/zh/tools/bulk-image-resizer/)
+
 - [manytools.org](https://manytools.org/) - Your online toolshed: many tools for web developers, system admins & webworkers (🇬🇧)
 
   - Featured tools: [What is my IP](https://manytools.org/network/what-is-my-ip/), [Type upside down](https://manytools.org/facebook-twitter/type-upside-down-aboqe/), [ASCII banners](https://manytools.org/hacker-tools/ascii-banner/)
