@@ -12,6 +12,7 @@
 
 ## 🧰 在线工具箱
 
+- [SMDownloader](https://www.smdownloader.com/) - 极速纯净的跨平台音视频解析下载工具，支持 YouTube、TikTok、Instagram、Twitter/X 等 32+ 平台（YouTube 免费最高支持 720p HD MP4，付费计划支持 1080p/4K 与 320kbps MP3），无需注册、无广告无跟踪。
 > 工具箱网站排名说明：下面所列网站按域名字母顺序排序  
 > 每个网站的 featured tools 最多列 5 个  
 > 可以提交 **PR** 添加、修改
